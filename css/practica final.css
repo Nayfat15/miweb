@@ -1,0 +1,30 @@
+body{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-sdmITpSa7AioZqaZ3jXOvmvYkclKWo9gMA&s);
+    }
+    .cuadrado{
+        width: 1000px;
+        margin: 0px 200px 0px 200px 
+    }
+    .letra_blanco{
+        color: white;
+    }
+    .tipo_de_letra{
+        font-family: serif;
+    }
+    .letra_celeste{
+        color: greenyellow;
+    }
+    .tamaño{
+        font-size: 500%;
+    }
+    .tipo_de_letra2{
+        font-family: cursive;
+    }
+    .texto_alineado{
+        text-align: center;
+    }
+    .fondo_gris{
+        background-color: rgb(148, 139, 139);
+        width: 100px;
+        margin-left: 600px;
+    }
